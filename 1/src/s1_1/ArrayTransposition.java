@@ -1,3 +1,5 @@
+package s1_1;
+
 /*
  * exercise 1.1.13
  * transposes an M*N array
