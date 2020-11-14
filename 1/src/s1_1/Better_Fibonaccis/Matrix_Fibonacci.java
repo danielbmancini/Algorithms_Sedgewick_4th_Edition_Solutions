@@ -27,7 +27,7 @@ public class Matrix_Fibonacci {
         matrix[1][1] = temp[1][0] * fibonacciMatrix[0][1] + temp[1][1] * fibonacciMatrix[1][1];
     }
 
-    private static long[][] fillTemp() { //"temp = matrix" just can't be used
+    private static long[][] fillTemp() { 
         return new long[][]{{matrix[0][0], matrix[0][1]},
                 {matrix[1][0], matrix[1][1]}};
     }
