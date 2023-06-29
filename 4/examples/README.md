@@ -1,1 +1,0 @@
-License detained by the book's author.

@@ -1,3 +1,5 @@
+package examples;
+
 public class UF{
     private int[] id;
     private int count;
